@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+background-color: blue ; 
+}
+h1{background-color: aqua;}
+h2{background-color:black;
+color:antiquewhite;
+text-align: left;}
+h3{background-color:blue}
+h4{background-color:azure;
+color:rgb(221, 63, 23) 
+}
+h5{background-color:blueviolet}
+h6{background-color:brown}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6{font-size:20px
+}
