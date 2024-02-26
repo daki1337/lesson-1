@@ -1,9 +1,17 @@
+
+body {
+    font-family: "Roboto Condensed", sans-serif;
+    font-weight: 200;
+}
 .center {
     text-align: center;
 }
-.blue {
-    color: blue;
+.blue, a{
+    color: #0691d7;
 }
 .yellow {
-    color: rgba(121, 121, 14, 0.637);
+    color: #ffa400
+}
+.left {
+    text-align: left;
 }
