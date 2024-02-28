@@ -1,7 +1,8 @@
 
 body {
     font-family: "Roboto Condensed", sans-serif;
-    font-weight: 200;
+    font-weight: 300;
+    font-size: 21px;
 }
 .center {
     text-align: center;
@@ -10,8 +11,31 @@ body {
     color: #0691d7;
 }
 .yellow {
-    color: #ffa400
+    color: #ffa400;
 }
 .left {
     text-align: left;
+}
+.italic {font-style: oblique;
+
+}
+.recept {
+    width: 70%;
+  margin: auto;
+}
+.big-font {font-size: 36px;
+
+}
+.main-title{ 
+  height: 512px;
+background-color: #0691d7;
+    color: white;
+font-size: 48px;
+letter-spacing: 5px;
+background-image: url(./assets/images/61cc1ba5608b6.jpg);
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+
+
 }
